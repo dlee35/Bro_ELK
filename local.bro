@@ -1,5 +1,3 @@
-Bro local.bro file example with JSON logging
-
 ##! Local site policy. Customize as appropriate. 
 ##!
 ##! This file will not be overwritten when upgrading or reinstalling!
@@ -85,5 +83,3 @@ Bro local.bro file example with JSON logging
 
 # Detect SHA1 sums in Team Cymru's Malware Hash Registry.
 @load frameworks/files/detect-MHR
-
-
